@@ -57,6 +57,11 @@ public abstract class Appliance implements Serializable {
         return weight;
     }
 
+    /**
+     * Sets the weight of appliance.
+     *
+     * @param weight New weight. Cannot be negative.
+     */
     public void setWeight(double weight) {
         if (weight < 0) {
             throw new IllegalArgumentException("Weight can not be negative");
