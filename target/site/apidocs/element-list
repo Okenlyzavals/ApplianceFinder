@@ -1,0 +1,12 @@
+by.epam.training.task02.dao
+by.epam.training.task02.dao.impl
+by.epam.training.task02.dao.parser
+by.epam.training.task02.dao.util
+by.epam.training.task02.dao.xmlreadcommand
+by.epam.training.task02.dao.xmlwritecommand
+by.epam.training.task02.entity
+by.epam.training.task02.entity.criteria
+by.epam.training.task02.main
+by.epam.training.task02.service
+by.epam.training.task02.service.impl
+by.epam.training.task02.service.validation
