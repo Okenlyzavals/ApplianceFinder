@@ -5,7 +5,6 @@ import by.epam.training.task02.entity.criteria.SearchParameter;
 
 /**
  * Service class that provides functionality to validate if parameters value type is valid.
- * Parameter types are specified within config file.
  *
  * @author Baranovsky E. K.
  * @version 1.0
