@@ -1,4 +1,4 @@
-package by.epam.training.task02.dao.configparser;
+package by.epam.training.task02.dao.config;
 
 import by.epam.training.task02.entity.criteria.SearchParameter;
 
