@@ -1,4 +1,5 @@
 by.epam.training.task02.dao
+by.epam.training.task02.dao.config
 by.epam.training.task02.dao.impl
 by.epam.training.task02.dao.parser
 by.epam.training.task02.dao.util

@@ -1,4 +1,4 @@
-package by.epam.training.task02.service.validation;
+package by.epam.training.task02.dao.configparser;
 
 import java.util.Arrays;
 
